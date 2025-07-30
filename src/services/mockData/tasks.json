@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "title": "Review quarterly reports",
+    "description": "Analyze Q3 performance metrics and prepare summary for stakeholders",
+    "category": "work",
+    "priority": "high",
+    "dueDate": "2024-01-15",
+    "completed": false,
+    "archived": false,
+    "createdAt": "2024-01-10T09:00:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 2,
+    "title": "Plan weekend hiking trip",
+    "description": "Research trails, check weather, and pack gear for Saturday adventure",
+    "category": "personal",
+    "priority": "medium",
+    "dueDate": "2024-01-12",
+    "completed": false,
+    "archived": false,
+    "createdAt": "2024-01-08T14:30:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 3,
+    "title": "Buy groceries for the week",
+    "description": "Get fresh vegetables, milk, bread, and ingredients for meal prep",
+    "category": "shopping",
+    "priority": "medium",
+    "dueDate": "2024-01-11",
+    "completed": true,
+    "archived": false,
+    "createdAt": "2024-01-09T16:45:00Z",
+    "completedAt": "2024-01-11T10:15:00Z"
+  },
+  {
+    "Id": 4,
+    "title": "Schedule annual health checkup",
+    "description": "Call doctor's office to book routine physical examination",
+    "category": "health",
+    "priority": "low",
+    "dueDate": "2024-01-20",
+    "completed": false,
+    "archived": false,
+    "createdAt": "2024-01-07T11:20:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 5,
+    "title": "Update project documentation",
+    "description": "Review and update API documentation with recent changes",
+    "category": "work",
+    "priority": "medium",
+    "dueDate": "2024-01-16",
+    "completed": false,
+    "archived": false,
+    "createdAt": "2024-01-09T13:10:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 6,
+    "title": "Learn new recipe",
+    "description": "Try cooking Thai green curry from scratch this weekend",
+    "category": "personal",
+    "priority": "low",
+    "dueDate": "2024-01-14",
+    "completed": true,
+    "archived": true,
+    "createdAt": "2024-01-05T19:30:00Z",
+    "completedAt": "2024-01-14T18:45:00Z"
+  },
+  {
+    "Id": 7,
+    "title": "Replace laptop battery",
+    "description": "Order replacement battery for MacBook Pro and schedule repair",
+    "category": "shopping",
+    "priority": "high",
+    "dueDate": "2024-01-13",
+    "completed": false,
+    "archived": false,
+    "createdAt": "2024-01-08T08:15:00Z",
+    "completedAt": null
+  },
+  {
+    "Id": 8,
+    "title": "Morning yoga routine",
+    "description": "Complete 30-minute yoga session before work",
+    "category": "health",
+    "priority": "medium",
+    "dueDate": "2024-01-11",
+    "completed": true,
+    "archived": false,
+    "createdAt": "2024-01-10T06:00:00Z",
+    "completedAt": "2024-01-11T07:30:00Z"
+  }
+]
