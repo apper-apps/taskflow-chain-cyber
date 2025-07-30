@@ -1,4 +1,4 @@
-import { getAll, getById } from "@/services/api/categoryService";
+import { getAll as getCategoryAll, getById as getCategoryById } from "@/services/api/categoryService";
 // Initialize ApperClient
 const { ApperClient } = window.ApperSDK;
 const apperClient = new ApperClient({
