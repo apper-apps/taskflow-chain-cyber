@@ -35,7 +35,7 @@ export const useTasks = () => {
   };
 
   const deleteTask = async (id) => {
-    await taskService.delete(id);
+await taskService.delete_(id);
     setTasks(prev => prev.filter(task => task.Id !== id));
   };
 
